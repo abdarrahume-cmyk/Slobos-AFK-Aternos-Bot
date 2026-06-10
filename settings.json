@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "booot",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "You1-0ar5.aternos.me",
